@@ -1,0 +1,12 @@
+.card-container {
+  display: flex;
+  height: 200px;
+  flex-direction: column;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: space-around;
+}
+.pokemon-image{
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,9 @@
+.fake-card-container {
+  display: flex;
+  height: 200px;
+  background-color: grey;
+  flex-direction: column;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: space-around;
+}
